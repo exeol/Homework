@@ -12,6 +12,10 @@ public class MainHome1 {
 
         //wyszukuję i wypisuję najdłuższe i najkrtósze imię
         object.longname(myNames);
+
+        // szukam powtarzających się imion i je wypisuję
+        object.sameName(myNames);
+
         }
     }
 
